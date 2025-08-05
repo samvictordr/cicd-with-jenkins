@@ -8,5 +8,7 @@ RUN pip install flask --no-cache-dir
 FROM python:3.11-slim
 WORKDIR /app
 COPY --from=builder /app /app
+# Install flask again in runtime
+RUN pip install flask --no-cache-dir
 EXPOSE 5000
 CMD ["python", "app.py"]
