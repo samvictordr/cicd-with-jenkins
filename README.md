@@ -288,11 +288,13 @@ stage('Deploy') {
    ```
 
 
-## 📸 Screenshots
+## Full Working Demonstration
 
 <details>
-<summary><strong>Click to view all screenshots</strong></summary>
+<summary>Click to view</summary>
 
-### Jenkins Configuration Screenshots
-
+<video width="100%" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
