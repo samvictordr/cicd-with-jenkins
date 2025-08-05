@@ -289,12 +289,5 @@ stage('Deploy') {
 
 
 ## Full Working Demonstration
-
-<details>
-<summary>Click to view</summary>
-
-<video width="100%" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[📹 **Watch Full Pipeline Demo**](https://youtu.be/hZjZKG-N2MQ)
 
