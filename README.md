@@ -2,6 +2,9 @@
 
 A complete CI/CD pipeline implementation using Jenkins, Docker, and GitHub webhooks for a Flask web application.
 
+## Full Working Demonstration
+[📹 **Watch Full Pipeline Demo**](https://youtu.be/hZjZKG-N2MQ)
+
 ## 📁 Project Directory Structure
 
 ```
@@ -288,6 +291,4 @@ stage('Deploy') {
    ```
 
 
-## Full Working Demonstration
-[📹 **Watch Full Pipeline Demo**](https://youtu.be/hZjZKG-N2MQ)
 
